@@ -4,7 +4,7 @@
     {
         const TAG = 3;
         const NOIMG = 'http://www.aro-market.ru/templates/pictures/no_image.jpg';
-        //fuck
+
         private $pattern = array('0'=>60,'1'=>2,'2'=>3,'3'=>4,'4'=>5,'5'=>43,'6'=>7,'7'=>8,'8'=>9,'9'=>10,'a'=>11,'b'=>12,'c'=>13,'d'=>20,'e'=>15,'f'=>16);
         private $link;
         private $balancer = NULL;
