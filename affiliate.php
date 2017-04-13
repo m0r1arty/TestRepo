@@ -1,5 +1,4 @@
 <?php
-/*test1*/
 class Affiliate {
 	private $affiliate_id;
 	private $firstname;
